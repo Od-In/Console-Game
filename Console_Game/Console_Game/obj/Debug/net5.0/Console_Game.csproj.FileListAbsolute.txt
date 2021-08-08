@@ -1,0 +1,16 @@
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\bin\Debug\net5.0\Console_Game.exe
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\bin\Debug\net5.0\Console_Game.deps.json
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\bin\Debug\net5.0\Console_Game.runtimeconfig.json
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\bin\Debug\net5.0\Console_Game.runtimeconfig.dev.json
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\bin\Debug\net5.0\Console_Game.dll
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\bin\Debug\net5.0\ref\Console_Game.dll
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\bin\Debug\net5.0\Console_Game.pdb
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.csproj.AssemblyReference.cache
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.AssemblyInfoInputs.cache
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.AssemblyInfo.cs
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.csproj.CoreCompileInputs.cache
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.dll
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\ref\Console_Game.dll
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.pdb
+F:\Users\Admin\Documents\GitHub\Console-Game\Console_Game\Console_Game\obj\Debug\net5.0\Console_Game.genruntimeconfig.cache
