@@ -1,0 +1,16 @@
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\bin\Debug\net5.0\Homework_03.exe
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\bin\Debug\net5.0\Homework_03.deps.json
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\bin\Debug\net5.0\Homework_03.runtimeconfig.json
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\bin\Debug\net5.0\Homework_03.runtimeconfig.dev.json
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\bin\Debug\net5.0\Homework_03.dll
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\bin\Debug\net5.0\ref\Homework_03.dll
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\bin\Debug\net5.0\Homework_03.pdb
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.csproj.AssemblyReference.cache
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.AssemblyInfoInputs.cache
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.AssemblyInfo.cs
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.csproj.CoreCompileInputs.cache
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.dll
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\ref\Homework_03.dll
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.pdb
+F:\Program Files\Unity Hub\Projects\Scripts\Homework_03\Homework_03\obj\Debug\net5.0\Homework_03.genruntimeconfig.cache
